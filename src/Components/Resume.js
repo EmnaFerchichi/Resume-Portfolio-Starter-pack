@@ -5,8 +5,8 @@ const Resume = ({ data }) => {
     var skillmessage = data.skillmessage;
     var education = data.education.map(function (education) {
       return (
-        <div key={education.school}>
-          <h3>{education.school}</h3>
+        <div key={education.Universiry}>
+          <h3>{education.Universiry}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>

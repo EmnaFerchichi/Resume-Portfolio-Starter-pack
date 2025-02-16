@@ -1,8 +1,7 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Emna's Resume and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
+### <a href="emnaferchichiresume.netlify.app">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
@@ -15,8 +14,6 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 ## 2. Clone the repo!
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
-
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
 
 ## 3. Install Dependancies
 
@@ -34,7 +31,7 @@ To populate the website with all of your own data, open the public/resumeData.js
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
+If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.png, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
 
 ## 7. Finalising Resume
 
@@ -50,8 +47,5 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 
 🚀 BOOM, you are now LIVE!!!
 
-## Credits
 
-##### Original Idea
 
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
