@@ -1,7 +1,7 @@
 # Emna's Resume and Digital Portfolio
 
 
-### <a href="emnaferchichiresume.netlify.app">LIVE DEMO</a>
+#LIVE DEMO : emnaferchichiresume.netlify.app
 
 ## Resume Starter Pack Description
 
